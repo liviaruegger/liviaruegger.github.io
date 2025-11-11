@@ -2,4 +2,4 @@
 
 Site do trabalho final de MAC0446/MAC5786 - Princípios de Interação Humano-computador (2025)
 
-Temporariamente hospedado [aqui](https://liviaruegger.github.io/):
+Temporariamente hospedado [aqui](https://liviaruegger.github.io/).
